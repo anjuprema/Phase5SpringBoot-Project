@@ -10,6 +10,6 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String showHomePage() {
-		return "Hello World!! This is my sample Spring Boot Project for AWS Instance";
+		return "Hello World!! This is my sample Spring Boot Project for AWS Instance 1";
 	}
 }
